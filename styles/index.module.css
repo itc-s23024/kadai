@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.search-form {
+  text-align: center;
+  max-width: 400px; /* フォームの最大幅を設定 */
+  width: 100%; /* 幅を100%に設定して中央に配置 */
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
